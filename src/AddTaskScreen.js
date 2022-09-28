@@ -36,6 +36,7 @@ import Dialog,{
    Keyboard.dismiss();
    console.log(myTasks);
   }
+  
   const getAllDate = async ()=>{
     const option = {
       columns: 'taskDate',
